@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Dev Radar",
+    "icon": "./assets/icon.png",
+    "version": "1.0.0",
+    "slug": "dev-radar",
+    "sdkVersion": "36.0.0",
+    "ios": {
+      "bundleIdentifier": "com.devradar.mauricio"
+    },
+    "android": {
+      "package": "com.devradar.mauricio"
+    }
+  }
+}
