@@ -52,4 +52,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Semana OmniStack by Rocketseat
+Semana OmniStack by Rocketseat :rocket:
